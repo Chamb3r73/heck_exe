@@ -1,5 +1,5 @@
-# heck.exe
-Fully featured CS:GO external cheat.
+# heck.exe (Chamb3r73 fork)
+Fully featured CS:GO external cheat. Forked from h1ru5's original repo.
 
 ![screenshot](screenshot.png)
 
@@ -11,6 +11,8 @@ No ESP.
 UserCmd features unbind left mouse button.
 
 bSendPacket features don't work on a local server in Release build due to it using m_flNextCmdTime method.
+
+I forked this so i can make (probably bad) changes of my own to practise csgo cheat coding without affecting the main branch
 
 # Features
 ## Aim:
